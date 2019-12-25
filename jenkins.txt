@@ -30,7 +30,6 @@
 # 3:SOURCEFILE, DESTDIR
 3:AIES_Patches.version,GameData/AIES_Patches
 
-9:Extras
 
 #
 # End of file

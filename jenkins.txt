@@ -26,6 +26,9 @@
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
 1:AIES_Patches, AIES_Patches.version 
 
+3:License.md,GameData/AIES_Patches
+3:Readme.md,GameData/AIES_Patches
+3:Aies_Antennas_Rebalance.xlsx,GameData/AIES_Patches
 
 # 3:SOURCEFILE, DESTDIR
 3:AIES_Patches.version,GameData/AIES_Patches

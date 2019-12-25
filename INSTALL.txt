@@ -13,12 +13,23 @@ CKAN Install
 The last version of the mod was for KSP 1.0.5.  You will need to change a
 setting in CKAN to allow it to be downloaded.  Follow these steps:
 
-1.  At the main CKAN window, type AIES in the entry field for "Filter by mod name"
-2.  You will see three lines for "AIES Patches"
-3.  Select "AIES Patches"
-4.  Now select one of the other two configs for the antenna settings you want
+1.  When at the CKAN main window, click Settings, and then select the menu item
+     "Compatible KSP Versions"
+2.  Scroll down until you see 1.0, and put a check in the checkbox at the left
+     of the 1.0
+3.  Click Accept
+4.  After CKAN has refreshed itself, type AIES in the entry field for "Filter by mod name"
+5.  You will see one line for "AIES Aerospace", and three lines for "AIES Continued"
+6.  Select "AIES Aerospace"
+7.  Select the first "AIES Continued"
+8.  Now select one of the other two configs for the antenna settings you want
      (see included spreadsheet for a comparision)
-5.  Click "Apply Changes" and wait for the mod & patches to be installed
+9.  Click "Apply Changes" and wait for the mod & patches to be installed
+10. Now to undo the compatibility change.   Click Settings, and then select the menu item
+     "Compatible KSP Versions"
+11. Scroll down until you see 1.0, and remove the check in the checkbox at the left
+     of the 1.0
+12. Click Accept
 
 
 Note that because the AIES mod is not compatible beyond 1.0.5, the "AIES Continued" 

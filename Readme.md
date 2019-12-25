@@ -19,7 +19,8 @@ License chosen :  CC_BY_NC_SA-4.0
 This was the one most in line with the original mod (ie:  No Commercial) and
 the original makes of the patches
 
-
+AIES Threads:
+	https://forum.kerbalspaceprogram.com/index.php?/topic/30974-aies-project-parts/
 =============================================================================================================
 Original Credits:
 =============================================================================================================

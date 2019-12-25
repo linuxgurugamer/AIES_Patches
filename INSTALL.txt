@@ -32,8 +32,6 @@ setting in CKAN to allow it to be downloaded.  Follow these steps:
 12. Click Accept
 
 
-Note that because the AIES mod is not compatible beyond 1.0.5, the "AIES Continued" 
-will not have AIES as a dependency.
 
 
 Manual Install

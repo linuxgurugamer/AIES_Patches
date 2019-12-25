@@ -8,6 +8,11 @@ I have taken his changes, which were actually complete config files, and convert
 changes from Demios Rast were more up-to-date than TK421d, I kept the main section of the part configs from the Demios Rast
 changes, and only changed the antenna ranges.
 
+A spreadsheet is included with the mod showing the values for the different
+files.  This spreadsheet is also available online here:
+
+	http://bit.ly/2PXRAup
+
 See the file INSTALL.txt for instructions on installation
 
 License chosen :  CC_BY_NC_SA-4.0

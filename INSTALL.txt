@@ -1,0 +1,60 @@
+Full AIES & AIES_Continued Installation Instructions
+
+Due to license restrictions, the AIES mod cannot be distributed with this mod
+
+There are two ways to install the AIES mod for 1.8.1.  The first is a direct
+download and manual install, the second is using CKAN
+
+
+Recommended method to install is via CKAN.
+
+CKAN Install
+============
+The last version of the mod was for KSP 1.0.5.  You will need to change a
+setting in CKAN to allow it to be downloaded.  Follow these steps:
+
+1.  When at the CKAN main window, click Settings, and then select the menu item
+     "Compatible KSP Versions"
+2.  Scroll down until you see 1.0, and put a check in the checkbox at the left
+     of the 1.0
+3.  Click Accept
+4.  After CKAN has refreshed itself, type AIES in the entry field for "Filter by mod name"
+5.  You will see one line for "AIES Aerospace", and three lines for "AIES Continued"
+6.  Select "AIES Aerospace"
+7.  Select the first "AIES Continued"
+8.  Now select one of the other two configs for the antenna settings you want
+     (see included spreadsheet for a comparision)
+9.  Click "Apply Changes" and wait for the mod & patches to be installed
+10. Now to undo the compatibility change.   Click Settings, and then select the menu item
+     "Compatible KSP Versions"
+11. Scroll down until you see 1.0, and remove the check in the checkbox at the left
+     of the 1.0
+12. Click Accept
+
+Note that because the AIES mod is not compatible beyond 1.0.5, the "AIES Continued" 
+will not have AIES as a dependency.
+
+
+Manual Install
+==============
+Download the full AIES version 1.6.1 from Curse here: 
+
+	https://www.curseforge.com/kerbal/ksp-mods/aies/download
+
+This link will download the file after a 5 second countdown.  You will then
+need to install the mod by hand the normal way.
+
+
+There are three folders inside the AIES_Continued folder.  They are:
+
+DeimosRast	Antenna patches from DeimosRast
+TK421d		Antenna patches derived from TK421d's AIES Antenna Revamp thread
+Patches		The rest of the patches from DemiosRast
+
+Note that the DeimosRast and TK421 folder conflict with each other.
+
+Copy the entire AIES_Continued folder to the GameData directory
+Delete one of these folders:
+	AIES_Continued/DemiosRast
+	AIES_Continued/TK421d
+
